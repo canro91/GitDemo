@@ -1,1 +1,1 @@
-This is a demo of Git basic concepts
+This is a demo of Git basic concepts. Git is awesome!!!
